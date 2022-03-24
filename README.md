@@ -1,4 +1,4 @@
-## Olá! Eu sou o Felipe Costa 
+## Olá! Eu sou o Vittor Serra
 
 <div style="display: inline_block" align="center">
 
@@ -6,9 +6,9 @@
     <img alt="Felipe" height="250" width="250"style="border-radius:0%;object-fit:cover;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/285/man-technologist-medium-dark-skin-tone_1f468-1f3fe-200d-1f4bb.png">
     
 <div align="center">
-  <a href="https://github.com/felipecostawp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCostawp&show_icons=true&theme=dracula&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>-->
+  <a href="https://github.com/DevVittor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevVittor&show_icons=true&theme=dracula&count_private=true"/>
+ <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVittor&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>
 </div>
     <a href="#"><img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -102,6 +102,6 @@
 
 <div style="display: inline_block" align="center">
 
-![Snake animation](https://github.com/felipecostawp/felipecostawp/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DevVittor/DevVittor/blob/output/github-contribution-grid-snake.svg)
 
 </div>
