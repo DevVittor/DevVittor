@@ -66,41 +66,6 @@
     <a href="#"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
-## 💳 Banco Digital
-
-<div style="display: inline_block">
-    <a href="#"><img align="center" alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-</div>
-
-## 📀 Música
-
-<div style="display: inline_block">
-  <img align="center" alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-   <img align="center" alt="soundcloud" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" />
-  <img align="center" alt="youtubemusic" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
-</div><br/>
-
-## 🎥 Streaming
-
-<div style="display: inline_block">
-  <img align="center" alt="netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
-   <img align="center" alt="crunchyroll" src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-</div><br/>
-
-## 🍕 Comida
-
-<div style="display: inline_block">
-  <img align="center" alt="ifood" src="https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white" />
-  <img align="center" alt="ubereats" src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" />
-</div><br/>
-
-## 🎮 Jogos
-
-<div style="display: inline_block">
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img align="center" alt="jQuery" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-</div><br/>
-
 <div style="display: inline_block" align="center">
 
 ![Snake animation](https://github.com/DevVittor/DevVittor/blob/output/github-contribution-grid-snake.svg)
