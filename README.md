@@ -44,7 +44,6 @@
    <img alt="BootStrap" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
    <img alt="Git" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
    <img alt="GitHub" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-   <i class="devicon-github-original-wordmark"></i>
    <img alt="Gulp" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
 </div>
 
