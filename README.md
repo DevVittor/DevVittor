@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
 <div align="center">
-  <img width="15%" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/man-technologist-medium-dark-skin-tone_1f468-1f3fe-200d-1f4bb.png"/>
+  <img width="25%" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vittor;Tenho+25+anos;E+sou+Desenvolvedor+Front-End+Junior;Seja+Bem-Vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
@@ -25,12 +25,13 @@
  </div>
   
 <div align="center">
+  <img alt="brain" width="20%" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/brain_1f9e0.png">
   <h2>
     O que eu sei:
   </h2>
 </div>
   
-<div align="center" background="#fff" height="400px">
+<div align="center" height="400px"  background="#fff!important">
    <img alt="Html5" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
    <img alt="Css3" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
    <img alt="Sass" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -42,16 +43,28 @@
    <img alt="Gulp" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
 </div>
 
-### O que eu estou estudando no momento:
+  
+  <div align="center">
+    <img alt="studing" width="25%" src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif"/>
+    <h2>O que eu estou estudando no momento:</h2>
+  </div>
 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+<div>
+   
+</div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7Bdevittor%7D/count.svg" /></p> 
 <br>
 </div>
+  
+  <div align="center">
+       <img width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  </div>
+  
+  <div align="center">
+       <img width="25%" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/raising-hands_dark-skin-tone_1f64c-1f3ff_1f3ff.gif" />
+  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
