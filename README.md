@@ -5,12 +5,13 @@
 
 <div>
     <img alt="Felipe" height="250" width="250"style="border-radius:0%;object-fit:cover;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/285/man-technologist-medium-dark-skin-tone_1f468-1f3fe-200d-1f4bb.png">
-    
+</div> 
 <div align="center">
   <a href="https://github.com/DevVittor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevVittor&show_icons=true&theme=dracula&count_private=true"/>
  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVittor&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>
+    
 <div>  
     <a href="#"><img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="#"><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -18,6 +19,7 @@
     <a href ="#"><img style="height="28px" width="28px" padding="5px" object-fit="cover" " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" /><a/>  
     <a href="#"><img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </div>
+    </div>
 
 ## 🧠 O que eu sei
 
