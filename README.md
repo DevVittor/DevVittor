@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
 <div align="center">
+  <img width="15%" src="https://media2.giphy.com/media/UrnxRwhcNwlIL2c0Pd/giphy.gif?cid=ecf05e47jgibf9s80kqi8nkyi3wfypssit233hhagyt48mdr&rid=giphy.gif&ct=s"/>
+</div>
+
+<div align="center">
   <img width="25%" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"/>
 </div>
 
@@ -9,16 +13,6 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevVittor&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVittor&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevVittor&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">
-  <img alt="Behance" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
 </div>
   
 <div align="center">
