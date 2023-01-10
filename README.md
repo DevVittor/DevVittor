@@ -35,7 +35,7 @@
    <img alt="FileZilla" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
    <img alt="Gulp" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
    <img alt="webpack" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-   <img alt="Wordpress" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
+   <img alt="Wordpress" width="10%" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" />
    <img alt="Woocommerce" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" />
    <img alt="Python" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 </div>
