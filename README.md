@@ -78,7 +78,7 @@
   </div>
   
   <div align="center">
-       <img width="25%" src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/raising-hands_dark-skin-tone_1f64c-1f3ff_1f3ff.gif" />
+       <img width="25%" src="https://em-content.zobj.net/source/noto-emoji-animations/344/raising-hands_dark-skin-tone_1f64c-1f3ff_1f3ff.gif" />
   </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
