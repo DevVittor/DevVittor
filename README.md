@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
-
 <div align="center">
   <img width="15%" src="https://media2.giphy.com/media/UrnxRwhcNwlIL2c0Pd/giphy.gif?cid=ecf05e47jgibf9s80kqi8nkyi3wfypssit233hhagyt48mdr&rid=giphy.gif&ct=s"/>
 </div>
@@ -79,5 +77,3 @@
   <div align="center">
        <img width="25%" src="https://em-content.zobj.net/source/noto-emoji-animations/344/raising-hands_dark-skin-tone_1f64c-1f3ff_1f3ff.gif" />
   </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
