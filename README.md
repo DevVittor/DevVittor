@@ -69,6 +69,10 @@
 </div>
   
   <div align="center">
+       <img width="10%" src="https://em-content.zobj.net/thumbs/160/facebook/327/crown_1f451.png" />
+  </div>
+  
+  <div align="center">
        <img width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
   </div>
   
