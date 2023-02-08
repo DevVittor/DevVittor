@@ -39,7 +39,7 @@
    <img alt="webpack" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
       <kbd><img alt="studing" width="200px" height="200px" object-fit="cover" src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif"/></kbd>
     <h2>O que eu estou estudando no momento:</h2>
   </div>
@@ -60,7 +60,7 @@
    <img alt="Angular" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    <img alt="Firebase" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
    <img alt="TypeScript" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
+</div> -->
 
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
