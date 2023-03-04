@@ -6,7 +6,7 @@
   <img width="25%" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vittor;Tenho+25+anos;E+sou+Desenvolvedor+Full+Stack;Seja+Bem-Vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Vittor;E+sou+Desenvolvedor+Full+Stack;Seja+Bem-Vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevVittor&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
