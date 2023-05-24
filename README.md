@@ -33,7 +33,7 @@
    <img alt="mysql" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-<!-- <div align="center">
+ <div align="center">
       <kbd><img alt="studing" width="200px" height="200px" object-fit="cover" src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif"/></kbd>
     <h2>O que eu estou estudando no momento:</h2>
   </div>
@@ -42,7 +42,7 @@
    <img alt="NodeJs" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
    <img alt="MySql" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-
+<!--
   <div align="center">
       <kbd>
         <img alt="Future" width="200px" height="200px" object-fit="cover" src="https://media.tenor.com/HR3YZjYlr_UAAAAC/nervous-sweating-sweating-bullets.gif"/>
