@@ -61,4 +61,4 @@
       
   </div>
 
- [![Generate Snake](https://github.com/DevVittor/DevVittor/actions/workflows/main.yml/badge.svg?branch=output)](https://github.com/DevVittor/DevVittor/actions/workflows/main.yml)
+ [![Generate Snake](https://github.com/DevVittor/DevVittor/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/DevVittor/DevVittor/actions/workflows/main.yml)
