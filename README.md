@@ -58,4 +58,4 @@
   <div align="center">
        <img width="25%" src="https://em-content.zobj.net/source/noto-emoji-animations/344/raising-hands_dark-skin-tone_1f64c-1f3ff_1f3ff.gif" />
   </div>
-  [![Generate Snake](https://github.com/DevVittor/DevVittor/actions/workflows/main.yml/badge.gif)](https://github.com/DevVittor/DevVittor/actions/workflows/main.yml)
+  [![Generate Snake](https://github.com/DevVittor/DevVittor/actions/workflows/main.yml/badge.svg)](https://github.com/DevVittor/DevVittor/actions/workflows/main.yml)
