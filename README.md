@@ -15,13 +15,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVittor&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
   
-<div align="center">
-    <kbd><img alt="brain" width="200px" height="200px" object-fit="cover" src="https://media.tenor.com/QaGZ50VlEPEAAAAC/think-about-it-use-your-brain.gif"></kbd>
-  <h2>
-    O que eu sei:
-  </h2>
-</div>
-  
 <div align="center" height="400px">
    <img alt="Html5" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
    <img alt="Css3" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
