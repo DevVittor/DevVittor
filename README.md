@@ -53,7 +53,7 @@
   </div>
   
   <div align="center">
-       <img width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+       <img width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   </div>
   
   <div align="center">
