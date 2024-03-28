@@ -128,3 +128,9 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" width="50">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" width="50">
 </div>
+
+## Contato
+
+**Nome:** Vittor Serra
+<br>
+**Email:** ```vittorserradev@gmail.com```
