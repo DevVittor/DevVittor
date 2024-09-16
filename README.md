@@ -55,7 +55,7 @@
     <img align="center" src="https://profile-counter.glitch.me/%7Bdevittor%7D/count.svg" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVittor&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div> -->
+</div> 
 
 ## Languages and Tools:
 
@@ -114,4 +114,19 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NeoVim-Dark.svg" width="50">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" width="50">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" width="50">
-</div>
+</div>-->
+
+### Front-end
+
+- **Linguagens:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Frameworks/Libraries:** React.js
+- **UI/UX:** Tailwind CSS, Ant Design, Sass, Material UI
+- **Outras Ferramentas:** Context API,  React Router
+
+### Backend
+
+- **Linguagens**: JavaScript (Node.js), Python
+- **Frameworks**: Express.js, Nest.js
+- **Banco de Dados**: MongoDB, MySQL, PostgreSQL
+- **Autenticação & Autorização**: JWT, OAuth, Passportjs
+- **Arquitetura**: Microserviços, RESTful APIs, MVC, Monolítica
