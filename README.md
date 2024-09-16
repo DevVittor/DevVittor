@@ -47,7 +47,7 @@
        <img width="25%" src="https://em-content.zobj.net/source/noto-emoji-animations/344/raising-hands_dark-skin-tone_1f64c-1f3ff_1f3ff.gif" />
       
   </div>-->
-# Full Stack Web Developer
+<!-- # Full Stack Web Developer
 
 <div align="center">
     <b align="center">Contagem de visitantes</b>
@@ -55,7 +55,7 @@
     <img align="center" src="https://profile-counter.glitch.me/%7Bdevittor%7D/count.svg" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevVittor&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
+</div> -->
 
 ## Languages and Tools:
 
