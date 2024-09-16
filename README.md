@@ -125,7 +125,7 @@
 
 ### Backend
 
-- **Linguagens**: JavaScript (Node.js), Python
+- **Linguagens**: JavaScript (Node.js)
 - **Frameworks**: Express.js, Nest.js
 - **Banco de Dados**: MongoDB, MySQL, PostgreSQL
 - **Autenticação & Autorização**: JWT, OAuth, Passportjs
