@@ -123,7 +123,7 @@
 - **UI/UX:** Tailwind CSS, Ant Design, Sass, Material UI
 - **Outras Ferramentas:** Context API,  React Router
 
-### Backend
+### Back-end
 
 - **Linguagens**: JavaScript (Node.js)
 - **Frameworks**: Express.js, Nest.js
