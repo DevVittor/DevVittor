@@ -128,5 +128,6 @@
 - **Linguagens**: JavaScript (Node.js)
 - **Frameworks**: Express.js, Nest.js
 - **Banco de Dados**: MongoDB, MySQL, PostgreSQL
+- **Gerenciadores de Pacotes**: NPM e YARN
 - **Autenticação & Autorização**: JWT, OAuth, Passportjs
 - **Arquitetura**: Microserviços, RESTful APIs, MVC, Monolítica
