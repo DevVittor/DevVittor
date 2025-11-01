@@ -132,3 +132,4 @@
 - **Autenticação & Autorização**: JWT, OAuth, Passportjs
 - **Arquitetura**: Microserviços, RESTful APIs, MVC, Monolítica
 - **ORM**: Mongoose, Sequelize, Prisma
+- **Outros**: Docker
